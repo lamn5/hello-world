@@ -1,6 +1,6 @@
 # hello-world
 This is my first GitHub project!
 
-## MLH Localhost
+## Testing
 
-MLH Localhost empowers you to develop your local tech community
+This is a test.
